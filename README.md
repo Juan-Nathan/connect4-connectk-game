@@ -32,6 +32,8 @@ Both games are fully playable from the terminal and provide an engaging way to e
 2. Open the project folder in an IDE (e.g., VS Code).
 3. Run `connect4.py` or `connectk.py` inside the IDE.
 
-## 👥 Author
+## 👤 Author
 
 Developed by Juan Nathan.
+
+
