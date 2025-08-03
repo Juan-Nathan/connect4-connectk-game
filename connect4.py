@@ -1,5 +1,5 @@
 """
-Classic Connect 4
+Classic Connect 4.
 """
 import random
 import os
@@ -675,4 +675,5 @@ def game_against_cpu(cpu_player: int):
 
 if __name__ == "__main__":
 	main()
+
         
