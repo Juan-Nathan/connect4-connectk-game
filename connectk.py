@@ -1,5 +1,5 @@
 """
-Custom Connect K
+Custom Connect K.
 """
 import random
 import os
@@ -635,3 +635,4 @@ def game_against_cpu(cpu_player: int):
 
 if __name__ == "__main__":
 	main()
+
