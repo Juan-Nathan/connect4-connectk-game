@@ -2,8 +2,8 @@
 
 This repository contains two Python-based terminal games:
 
-- **Connect 4**: A classic 2-player game with optional AI opponents (Easy, Medium, Hard).
-- **Connect K**: A customizable version of Connect 4 that supports up to 26 players, different board sizes, adjustable win conditions, and optional CPU players.
+- **Connect 4**: A classic 2-player game with an optional AI opponent (Easy, Medium, Hard).
+- **Connect K**: A customizable version of Connect 4 that supports up to 26 players, variable board sizes, adjustable win conditions, and optional AI players.
 
 Both games are fully playable from the terminal and provide an engaging way to explore game logic, AI strategy, and input validation in Python.
 
@@ -35,5 +35,6 @@ Both games are fully playable from the terminal and provide an engaging way to e
 ## 👤 Author
 
 Developed by Juan Nathan.
+
 
 
