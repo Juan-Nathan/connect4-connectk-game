@@ -7,9 +7,9 @@ This repository contains two Python-based terminal games:
 
 Both games are fully playable from the terminal and provide an engaging way to explore game logic, AI strategy, and input validation in Python.
 
-## ✨ Features
+## Features
 
-### 🟠 Connect 4 (`connect4.py`)
+### Connect 4 (`connect4.py`)
 - 2-player local mode
 - CPU opponent (Easy: random, Medium: block/win logic, Hard: center preference)
 - Fixed 6x7 board
@@ -17,7 +17,7 @@ Both games are fully playable from the terminal and provide an engaging way to e
 - Randomized winner messages
 - Clean terminal UI
 
-### 🔵 Connect K (`connectk.py`)
+### Connect K (`connectk.py`)
 - Custom number of players (2–26)
 - Adjustable board size (rows × columns)
 - Set your own win condition (K)
@@ -26,15 +26,16 @@ Both games are fully playable from the terminal and provide an engaging way to e
 - Full win logic (Horizontal/Vertical/Diagonal) for arbitrary board size and player count
 - Centralized game setting configuration
 
-## 🕹️ How to Play
+## How to Play
 
 1. Clone the repository or download the ZIP file from GitHub.
 2. Open the project folder in an IDE (e.g., VS Code).
 3. Run `connect4.py` or `connectk.py` inside the IDE.
 
-## 👤 Author
+## Author
 
 Developed by Juan Nathan.
+
 
 
 
