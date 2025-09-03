@@ -1,6 +1,6 @@
 # 🎮 Connect 4 & Connect K
 
-This project implements two terminal games in Python:
+This project implements two terminal-based games in Python:
 
 - **Connect 4**: A classic 2-player game with an optional AI opponent.
 - **Connect K**: A customizable version of Connect 4 that supports up to 26 players, variable board sizes, adjustable win conditions, and optional AI opponents.
@@ -31,6 +31,7 @@ This project implements two terminal games in Python:
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
